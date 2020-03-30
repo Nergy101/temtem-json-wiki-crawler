@@ -6,7 +6,7 @@ This is a temtem gamepedia crawler made with Python 3 & the Beautiful Soup 4 lib
 ## Getting Started
 Install the requirements.txt
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 run the main.py
 ```
